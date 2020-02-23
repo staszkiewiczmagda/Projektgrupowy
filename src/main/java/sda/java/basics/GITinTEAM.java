@@ -5,3 +5,4 @@ public class GITinTEAM {
         System.out.println("Siemano Gity");
     }
 }
+// -----------------------  praca grupowa git ---------------- komentarz ------------------
